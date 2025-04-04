@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Nuha Tarig
-- 👀 I’m interested in Data Analysis and Software Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-nuhaosman/nuhaosman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nuha Tarig.
+- 👀 I’m interested in Data Analysis and Software Development.
+- 🌱 I’m currently learning C++, Python and Containerization.
+- 📫 How to reach me:
+  - email: nuhaosman249@gmail.com
+  - Linkedin: linkedin.com/in/nuha-tarig
